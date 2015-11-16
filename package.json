@@ -2,7 +2,7 @@
   "name": "connect-parse",
   "description": "Parse session store for Connect",
   "author": "Nik Sumeiko <nik.sumeiko@gmail.com>",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "homepage": "https://github.com/manakor/connect-parse",
   "repository": {
     "type": "git",
